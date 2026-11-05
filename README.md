@@ -1,2 +1,2 @@
-#My Web Dev Portfolio
-## About me: Learning Web Development
+# Web Dev Lab Portfolio
+This repository contains my web development lab assignments and project for Module 1. 
