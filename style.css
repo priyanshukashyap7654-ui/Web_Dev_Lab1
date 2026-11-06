@@ -1,0 +1,29 @@
+header{
+    text-align: center;
+}
+footer{
+    text-align: center;
+}
+section{
+    text-align: center;
+}
+ul{
+    text-align: left;
+    display:inline-block;
+}
+body{
+    background-color: lightslategrey;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+section{
+    background-color: white;
+    border-radius: 12px;
+    padding: 20px;
+    margin: 20px auto;
+    box-shadow: 0px 4px 6px -1px rgba(0,0,0,0.1);
+}
+main{
+    max-width: 650px;
+    margin: 0 auto;
+    padding:0 20px;
+}
