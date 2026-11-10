@@ -21,8 +21,6 @@ header p {
     color: #666;
     font-size: 1rem;
 }
-
-/* ADVANCED CSS GRID LAYOUT */
 .projects-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
