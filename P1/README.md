@@ -9,5 +9,3 @@ To create a project folder and understand basic terminal navigation commands[cit
 * `mkdir` - Creates a new directory[cite: 27].
 * `cd` - Changes the current working directory[cite: 27].
 
-## Execution Proof
-![Terminal Navigation Proof](p1-terminal.png)
